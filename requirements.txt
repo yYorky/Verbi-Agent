@@ -43,3 +43,4 @@ langchain-community
 flask
 PyPDF2==3.0.1
 Pillow==10.2.0
+pdf2image
