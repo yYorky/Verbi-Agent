@@ -1,6 +1,6 @@
 # Verbi Agent: Invoice Review Assistant
 
-![Cover](https://github.com/yYorky/Verbi-Agent/blob/main/static/verbiagentpdf.gif?raw=true)
+![Cover](https://github.com/yYorky/Verbi-RAG/blob/main/static/chatbot%20image.png?raw=true)
 
 ## 1. Introduction
 
@@ -11,6 +11,8 @@ This demo focuses on **invoices submitted to a company's finance team** via a we
 - Check for missing information, incorrect values, or invalid fields
 - Provide a natural language summary of the issues (or validation confirmation)
 - Optionally allow users to ask follow-up questions or interact via voice
+
+![slides](https://github.com/yYorky/Verbi-Agent/blob/main/static/verbiagentpdf.gif?raw=true)
 
 ---
 
