@@ -1,6 +1,6 @@
 # Verbi Agent: Invoice Review Assistant
 
-![Cover](https://raw.githubusercontent.com/yYorky/Verbi/refs/heads/main/static/chatbot%20image.png)
+![Cover](https://github.com/yYorky/Verbi-Agent/blob/main/static/verbiagentpdf.gif?raw=true)
 
 ## 1. Introduction
 
